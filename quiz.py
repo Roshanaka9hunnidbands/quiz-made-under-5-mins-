@@ -13,7 +13,7 @@ options = [
     ["A. Brazil", "B. Australia", "C. Canada", "D. South Africa"]
 ]
 
-answers = ["B", "A", "A", "B"]  # Corrected answer for the longest river question
+answers = ["B", "A", "A", "B"] 
 
 # Define a function to run the quiz
 def run_quiz(questions, options, answers):
